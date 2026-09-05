@@ -20,7 +20,8 @@ Please check which versions of our project currently receive security updates.
 
 | Version | Supported |
 | ------- | --------- |
-| 2.x     | ✅ |
+| 3.x     | ✅ |
+| 2.x     | ❌ | 
 | 1.x     | ❌ |
 
 ## Disclosure Policy
