@@ -1,6 +1,15 @@
 <svg width="48" height="48" viewBox="0 0 24 24" fill="none">
-  <circle cx="12" cy="12" r="10" stroke="#4a7cff" stroke-width="2"/>
-  <path d="M2 12h20" stroke="#4a7cff" stroke-width="2"/>
-  <path d="M12 2c3 3 3 17 0 20" stroke="#4a7cff" stroke-width="2"/>
-  <path d="M12 2c-3 3-3 17 0 20" stroke="#4a7cff" stroke-width="2"/>
+  <!-- Outer circle -->
+  <circle cx="12" cy="12" r="10" stroke="#4a7cff" stroke-width="1.6"/>
+
+  <!-- Horizontal lines (parallels) -->
+  <path d="M2 12h20" stroke="#4a7cff" stroke-width="1.2"/>
+  <path d="M4 8h16" stroke="#4a7cff" stroke-width="1.1"/>
+  <path d="M4 16h16" stroke="#4a7cff" stroke-width="1.1"/>
+
+  <!-- Vertical lines (meridians) -->
+  <path d="M12 2c2.5 3 2.5 17 0 20" stroke="#4a7cff" stroke-width="1.2"/>
+  <path d="M12 2c-2.5 3-2.5 17 0 20" stroke="#4a7cff" stroke-width="1.2"/>
+  <path d="M6 4c1.8 2.5 1.8 13.5 0 16" stroke="#4a7cff" stroke-width="1.1"/>
+  <path d="M18 4c-1.8 2.5-1.8 13.5 0 16" stroke="#4a7cff" stroke-width="1.1"/>
 </svg>
