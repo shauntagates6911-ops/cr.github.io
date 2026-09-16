@@ -2,18 +2,14 @@
   <!-- Outer circle -->
   <circle cx="12" cy="12" r="10" stroke="#4a7cff" stroke-width="1.4"/>
 
-  <!-- Latitude lines -->
-  <path d="M4 7h16" stroke="#4a7cff" stroke-width="1"/>
-  <path d="M3 12h18" stroke="#4a7cff" stroke-width="1.2"/>
-  <path d="M4 17h16" stroke="#4a7cff" stroke-width="1"/>
+  <!-- Latitude lines (very spaced) -->
+  <path d="M6 10h12" stroke="#4a7cff" stroke-width="1"/>
+  <path d="M6 14h12" stroke="#4a7cff" stroke-width="1"/>
 
-  <!-- Longitude lines -->
-  <path d="M12 2c3 4 3 16 0 20" stroke="#4a7cff" stroke-width="1.2"/>
-  <path d="M12 2c-3 4-3 16 0 20" stroke="#4a7cff" stroke-width="1.2"/>
+  <!-- Longitude lines (very spaced) -->
+  <path d="M12 3c2.2 4 2.2 14 0 18" stroke="#4a7cff" stroke-width="1.2"/>
+  <path d="M12 3c-2.2 4-2.2 14 0 18" stroke="#4a7cff" stroke-width="1.2"/>
 
-  <path d="M7 3c2.2 3.5 2.2 14.5 0 18" stroke="#4a7cff" stroke-width="1"/>
-  <path d="M17 3c-2.2 3.5-2.2 14.5 0 18" stroke="#4a7cff" stroke-width="1"/>
-
-  <path d="M9.5 2.5c1.5 3 1.5 15 0 18.5" stroke="#4a7cff" stroke-width="0.9"/>
-  <path d="M14.5 2.5c-1.5 3-1.5 15 0 18.5" stroke="#4a7cff" stroke-width="0.9"/>
+  <path d="M8.5 5c1.8 3.5 1.8 11.5 0 14" stroke="#4a7cff" stroke-width="1"/>
+  <path d="M15.5 5c-1.8 3.5-1.8 11.5 0 14" stroke="#4a7cff" stroke-width="1"/>
 </svg>
