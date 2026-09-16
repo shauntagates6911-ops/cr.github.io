@@ -23,6 +23,7 @@ Please check which versions of our project currently receive security updates.
 | 3.x     | ✅ |
 | 2.x     | ❌ | 
 | 1.x     | ❌ |
+| Beta    | ❌ |
 
 ## Disclosure Policy
 
